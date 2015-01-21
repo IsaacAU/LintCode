@@ -60,3 +60,5 @@
 + [**Construct Binary Tree from Preorder and Inorder Traversal**](http://lintcode.com/en/problem/construct-binary-tree-from-preorder-and-inorder-traversal/)  [MyCode](Construct Binary Tree from Preorder and Inorder Traversal.cpp)
 
 + [**Convert Sorted List to Binary Search Tree**](http://lintcode.com/en/problem/convert-sorted-list-to-binary-search-tree/)  [MyCode](Convert Sorted List to Binary Search Tree.cpp)
+
++ [**Copy List with Random Pointer**](http://lintcode.com/en/problem/copy-list-with-random-pointer/)  [MyCode](Copy List with Random Pointer.cpp)
