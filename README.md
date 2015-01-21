@@ -1,7 +1,7 @@
 # LintCode
 
 ====
-+ [**2 Sum**](http://lintcode.com/en/problem/2-sum/)      [*MyCode*](2 sum.cpp)
++ [**2 Sum**](http://lintcode.com/en/problem/2-sum/)      [MyCode](2 sum.cpp)
 
 + [**3 Sum**](http://lintcode.com/en/problem/3-sum/)      [MyCode](3 sum.cpp)
 
