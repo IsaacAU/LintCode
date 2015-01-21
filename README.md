@@ -12,3 +12,7 @@
 #####3. 3 Sum Cloest
 [Problem Link](http://lintcode.com/en/problem/3-sum-closest/)   
 [MyCode](3 sum closet.cpp)
+
+#####3. 4 Sum
+[Problem Link](http://lintcode.com/en/problem/4-sum/)   
+[MyCode](4 sum closet.cpp)
