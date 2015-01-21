@@ -14,3 +14,5 @@
 + [**Anagrams**](http://lintcode.com/en/problem/anagrams/)  [MyCode](anagrams.cpp)
 
 + [**Backpack**](http://lintcode.com/en/problem/backpack/)  [MyCode](backpack.cpp)
+
++ [**Backpack II**](http://lintcode.com/en/problem/backpack-ii/)  [MyCode](backpack II.cpp)
