@@ -33,13 +33,8 @@ public:
         while(i<j){
             int sum=nums[idx[i]]+nums[idx[j]];
             if(sum==target){
-                if(idx[i]<idx[j]){
-                    res.push_back(idx[i]+1);
-                    res.push_back(idx[j]+1);
-                }else{
-                    res.push_back(idx[j]+1);
-                    res.push_back(idx[i]+1);
-                }
+                res.push_back(min(idx[i], idx[j])+1);
+                res.push_back(max(idx[i], idx[j])+1);
                 break;
             }else if(sum>target){
                 --j;
