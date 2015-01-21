@@ -1,7 +1,7 @@
 # LintCode
 
 ====
-***** 2 Sum     
+* 2 Sum     
 [Problem Link](http://lintcode.com/en/problem/2-sum/)      
 [MyCode](2 sum.cpp)
 
