@@ -16,3 +16,5 @@
 + [**Backpack**](http://lintcode.com/en/problem/backpack/)  [MyCode](backpack.cpp)
 
 + [**Backpack II**](http://lintcode.com/en/problem/backpack-ii/)  [MyCode](backpack II.cpp)
+
++ [**Balanced Binary Tree**](http://lintcode.com/en/problem/balanced-binary-tree/)  [MyCode](Balanced Binary Tree.cpp)
