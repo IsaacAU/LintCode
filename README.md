@@ -54,3 +54,5 @@
 + [**Combinations**](http://lintcode.com/en/problem/combinations/)  [MyCode](Combinations.cpp)
 
 + [**Compare Strings**](http://lintcode.com/en/problem/compare-strings/)  [MyCode](Compare Strings.cpp)
+
++ [**Construct Binary Tree from Inorder and Postorder Traversal**](http://lintcode.com/en/problem/construct-binary-tree-from-inorder-and-postorder-traversal/)  [MyCode](Construct Binary Tree from Inorder and Postorder Traversal.cpp)
