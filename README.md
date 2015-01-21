@@ -12,3 +12,5 @@
 + [**A + B Problem**](http://lintcode.com/en/problem/a-b-problem/)   [MyCode](A + B Problem.cpp)
 
 + [**Anagrams**](http://lintcode.com/en/problem/anagrams/)  [MyCode](anagrams.cpp)
+
++ [**Backpack**](http://lintcode.com/en/problem/backpack/)  [MyCode](backpack.cpp)
