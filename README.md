@@ -38,3 +38,5 @@
 + [**Binary Tree Maximum Path Sum**](http://lintcode.com/en/problem/binary-tree-maximum-path-sum/)  [MyCode](Binary Tree Maximum Path Sum.cpp)
 
 + [**Binary Tree Postorder Traversal**](http://lintcode.com/en/problem/binary-tree-postorder-traversal/)  [MyCode](Binary Tree Postorder Traversal.cpp)
+
++ [**Binary Tree Preorder Traversal**](http://lintcode.com/en/problem/binary-tree-preorder-traversal/)  [MyCode](Binary Tree Preorder Traversal.cpp)
