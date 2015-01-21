@@ -28,3 +28,5 @@
 + [**Binary Representation**](http://lintcode.com/en/problem/binary-representation/)  [MyCode](Binary Representation.cpp)     (not pass!!!!)
 
 + [**Binary Search**](http://lintcode.com/en/problem/binary-search/)  [MyCode](Binary Search.cpp)
+
++ [**Binary Tree Inorder Traversal**](http://lintcode.com/en/problem/binary-tree-inorder-traversal/)  [MyCode](Binary Tree Inorder Traversal.cpp)
