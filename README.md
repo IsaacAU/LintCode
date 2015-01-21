@@ -16,3 +16,7 @@
 #####3. 4 Sum
 [Problem Link](http://lintcode.com/en/problem/4-sum/)   
 [MyCode](4 sum closet.cpp)
+
+#####4. A + B Problem
+[Problem Link](http://lintcode.com/en/problem/a-b-problem/)   
+[MyCode](A + B Problem.cpp)
