@@ -10,3 +10,5 @@
 + [**4 Sum**](http://lintcode.com/en/problem/4-sum/)       [MyCode](4 sum closet.cpp)
 
 + [**A + B Problem**](http://lintcode.com/en/problem/a-b-problem/)   [MyCode](A + B Problem.cpp)
+
++ [**Anagrams**](http://lintcode.com/en/problem/anagrams/)  [MyCode](anagrams.cpp)
