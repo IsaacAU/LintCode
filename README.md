@@ -48,3 +48,5 @@
 + [**Clone Graph**](http://lintcode.com/en/problem/clone-graph/)  [MyCode](Clone Graph.cpp)
 
 + [**Combination Sum**](http://lintcode.com/en/problem/combination-sum/)  [MyCode](Combination Sum.cpp)
+
++ [**Combination Sum II**](http://lintcode.com/en/problem/combination-sum-ii/)  [MyCode](Combination Sum II.cpp)
