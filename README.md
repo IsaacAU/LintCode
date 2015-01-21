@@ -50,3 +50,5 @@
 + [**Combination Sum**](http://lintcode.com/en/problem/combination-sum/)  [MyCode](Combination Sum.cpp)
 
 + [**Combination Sum II**](http://lintcode.com/en/problem/combination-sum-ii/)  [MyCode](Combination Sum II.cpp)
+
++ [**Combinations**](http://lintcode.com/en/problem/combinations/)  [MyCode](Combinations.cpp)
