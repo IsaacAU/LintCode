@@ -64,3 +64,5 @@
 + [**Copy List with Random Pointer**](http://lintcode.com/en/problem/copy-list-with-random-pointer/)  [MyCode](Copy List with Random Pointer.cpp)
 
 + [**Delete Digits**](http://lintcode.com/en/problem/delete-digits/)  [MyCode](Delete Digits.cpp)
+
++ [**Digit Counts**](http://lintcode.com/en/problem/digit-counts/)  [MyCode](Digit Counts.cpp)
